@@ -46,13 +46,13 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/notifications/sirius.ogg:system/media/audio/notifications/sirius.ogg \
 	$(LOCAL_PATH)/notifications/Sirrah.ogg:system/media/audio/notifications/Sirrah.ogg \
 	$(LOCAL_PATH)/notifications/vega.ogg:system/media/audio/notifications/vega.ogg \
-	$(LOCAL_PATH)/ringtones/ANDROMEDA.ogg:system/media/audio/ringtones/ANDROMEDA.ogg \
+	$(LOCAL_PATH)/ringtones/Andromeda.ogg:system/media/audio/ringtones/Andromeda.ogg \
 	$(LOCAL_PATH)/ringtones/Aquila.ogg:system/media/audio/ringtones/Aquila.ogg \
 	$(LOCAL_PATH)/ringtones/ArgoNavis.ogg:system/media/audio/ringtones/ArgoNavis.ogg \
-	$(LOCAL_PATH)/ringtones/BOOTES.ogg:system/media/audio/ringtones/BOOTES.ogg \
-	$(LOCAL_PATH)/ringtones/CANISMAJOR.ogg:system/media/audio/ringtones/CANISMAJOR.ogg \
+	$(LOCAL_PATH)/ringtones/Bootes.ogg:system/media/audio/ringtones/Bootes.ogg \
+	$(LOCAL_PATH)/ringtones/Canismajor.ogg:system/media/audio/ringtones/Canismajor.ogg \
 	$(LOCAL_PATH)/ringtones/Carina.ogg:system/media/audio/ringtones/Carina.ogg \
-	$(LOCAL_PATH)/ringtones/CASSIOPEIA.ogg:system/media/audio/ringtones/CASSIOPEIA.ogg \
+	$(LOCAL_PATH)/ringtones/Cassiopeia.ogg:system/media/audio/ringtones/Cassiopeia.ogg \
 	$(LOCAL_PATH)/ringtones/Centaurus.ogg:system/media/audio/ringtones/Centaurus.ogg \
 	$(LOCAL_PATH)/ringtones/Cygnus.ogg:system/media/audio/ringtones/Cygnus.ogg \
 	$(LOCAL_PATH)/ringtones/Draco.ogg:system/media/audio/ringtones/Draco.ogg \
@@ -62,12 +62,12 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/ringtones/Machina.ogg:system/media/audio/ringtones/Machina.ogg \
 	$(LOCAL_PATH)/ringtones/Orion.ogg:system/media/audio/ringtones/Orion.ogg \
 	$(LOCAL_PATH)/ringtones/Pegasus.ogg:system/media/audio/ringtones/Pegasus.ogg \
-	$(LOCAL_PATH)/ringtones/PERSEUS.ogg:system/media/audio/ringtones/PERSEUS.ogg \
+	$(LOCAL_PATH)/ringtones/Perseus.ogg:system/media/audio/ringtones/Perseus.ogg \
 	$(LOCAL_PATH)/ringtones/Pyxis.ogg:system/media/audio/ringtones/Pyxis.ogg \
 	$(LOCAL_PATH)/ringtones/Rigel.ogg:system/media/audio/ringtones/Rigel.ogg \
 	$(LOCAL_PATH)/ringtones/Scarabaeus.ogg:system/media/audio/ringtones/Scarabaeus.ogg \
 	$(LOCAL_PATH)/ringtones/Sceptrum.ogg:system/media/audio/ringtones/Sceptrum.ogg \
 	$(LOCAL_PATH)/ringtones/Solarium.ogg:system/media/audio/ringtones/Solarium.ogg \
 	$(LOCAL_PATH)/ringtones/Testudo.ogg:system/media/audio/ringtones/Testudo.ogg \
-	$(LOCAL_PATH)/ringtones/URSAMINOR.ogg:system/media/audio/ringtones/URSAMINOR.ogg \
+	$(LOCAL_PATH)/ringtones/Ursaminor.ogg:system/media/audio/ringtones/Ursaminor.ogg \
 	$(LOCAL_PATH)/ringtones/Vespa.ogg:system/media/audio/ringtones/Vespa.ogg
